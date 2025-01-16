@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#D47A29"       # Rich amber/orange to complement warm tones in the image
+backgroundColor = "#F5F5F5"    # Light beige/gray background for good readability
+secondaryBackgroundColor = "#FFFFFF"  # White background for UI separation
+textColor = "#333333"          # Dark gray text for high contrast with light backgrounds
+font = "sans serif"            # Clean, readable font
