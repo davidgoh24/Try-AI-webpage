@@ -47,7 +47,7 @@ if 'chat_history' not in st.session_state:
     st.session_state.chat_history = []
 
 # create a page title / streamlit page title
-st.markdown("<h1 style='text-align: center;'>❤ISABELWAISI🥰</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>🤖David's Aibot</h1>", unsafe_allow_html=True)
 
 # display chat history using for loop
 for message in st.session_state.chat_history:
